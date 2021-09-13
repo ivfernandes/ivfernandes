@@ -14,7 +14,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
+  <img align="rigth" alt="gif" src="https://media0.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif?cid=ecf05e47y9hbecuiftq31nubwj0r309ihelan2n9rlcl7iih&rid=giphy.gif&ct=g">
 </div>
 
 <!--
