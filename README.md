@@ -35,6 +35,6 @@
 
 <img alt="GitHub stats" width="49%" src="https://github-readme-stats.vercel.app/api?username=ivfernandes&theme=slateorange&hide_border=true&include_all_commits=false&count_private=true"/>
 <img alt="GitHub stats" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ivfernandes&theme=slateorange&hide_border=true"/>
-<img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivfernandes&theme=slateorange&hide_border=true&include_all_commits=false&count_private=true&layout=compact"/>
+<img alt="GitHub stats" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivfernandes&theme=slateorange&hide_border=true&include_all_commits=false&count_private=true&layout=compact"/>
 
 <img src="https://github.com/ivfernandes/ivfernandes/blob/output/github-contribution-grid-snake.svg">
